@@ -111,6 +111,11 @@ header .fa-bars{
     font-size: 2.5rem;
     margin: 1rem 0;
 }
+.box .contact-email{
+    color:rgb(48, 7, 7);
+    font-weight: 700;
+    font-size: 3rem;
+}
 .about .box{
     display: flex;
     align-items: center;
@@ -199,7 +204,7 @@ header .fa-bars{
     padding-top: 2.5rem;
 }
 .portfolio .row .box .content h3{
-    font-size: 2.5rem;
+    font-size: 4rem;
     color: var(--sc-color);
     margin-top: 4rem;
 }
